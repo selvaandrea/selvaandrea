@@ -1,5 +1,5 @@
-<h3 align="center">👋 Hi, I’m @selvaandrea. It's ok, Mate! I come in peace!<h3> <br>
-<h3 align="center"> 👀 I’m interested in Social Innovation and Sustainable Development & Agenda 2030, <br>
+<h3 align="center">👋  It's ok, Mate! I come in peace! I’m Andrea.<h3>
+<h3 align="center"> 👀 I’m interested in Social Innovation and Sustainable Development & Agenda 2030. <br>
 🌱 I’m currently learning everything and looking to collaborate with anyone who is patient enough <h2> <br>
 <!---<h4 align="center"> 📫 How to reach me: andrea.selva@outlook.it) <h4>--->
 
