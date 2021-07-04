@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @selvaandrea. It's ok, Mate! I come in peace!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me?  [here]()
+- 👀 I’m interested in Social Innovation, Sustainable Development & Agenda 2030, 
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate _with_ anyone who is patient enough :)
+- 📫 How to reach me?  Just [here]()
 
 <!---
 selvaandrea/selvaandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
