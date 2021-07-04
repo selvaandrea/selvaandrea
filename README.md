@@ -1,8 +1,7 @@
-<h3 align="center">👋 Hi, I’m @selvaandrea. It's ok, Mate! I come in peace!<h3>
-<h3 align="center"> 👀 I’m interested in Social Innovation, Sustainable Development & Agenda 2030, <h3>
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate _with_ anyone who is patient enough :)
-- 📫 How to reach me?  Just [here] (mailto:andrea.selva@outlook.it)
+<h2 align="center">👋 Hi, I’m @selvaandrea. It's ok, Mate! I come in peace!<h1> <br>
+<h3 align="center"> 👀 I’m interested in Social Innovation and Sustainable Development & Agenda 2030, 
+🌱 I’m currently learning everything and looking to collaborate with anyone who is patient enough <h2> <br>
+<!---<h4 align="center"> 📫 How to reach me: andrea.selva@outlook.it) <h4>--->
 
 <!---
 selvaandrea/selvaandrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
